@@ -4,7 +4,6 @@
 #include <utility>
 #include <map>
 
-///separa uma string completa em um vector de string considerando virgula para marcar a divisão
 void separar_Str(std::vector<std::string>* be){
     std::string aux;
     char input;
