@@ -118,7 +118,7 @@ void validar_CNPJ(std::string &cnpj) {
             }
             if (valido) {
                 int digito1 = 0, digito2 = 0;
-                int peso = 5, soma = 0;
+                int peso = 5;
                 for (int i = 0; i < 12; ++i) {
                     peso = (peso == 1) ? 9 : peso;
                     digito1 += (cnpj[i] - '0') * peso;
