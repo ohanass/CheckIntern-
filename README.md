@@ -14,7 +14,11 @@ Em resumo, o projeto se propõe a oferecer uma plataforma para facilitar a inter
 OBSERVAÇÕES E JUSTIFICATIVAS PARA O PROFESSOR LUIGI SOARES:
 
 a) Gostariamos de informar que divimos o projeto em 4 versões devido ao nosso processo produtivo. Como explicado na reunião para esclarecimentos de dúvidas a maioria dos integrantes do grupo trabalham, o que prejudicou um pouco a execução e alteração do programa ser feita de forma 100% integral no github. Portanto, nessas 4 versões está consilidado os principais arquivos que testamos e as nossas "bases" construtivas" até chegarmos na versão 4. Os comentários e alterações do projeto acabaram sendo feitos em comentários em conversas do whatsapp e o que foi comentado tentamos repassar da melhor maneira possível nas observações dos commits.
+
+
 b) A pasta Doxygen também está divida para a melhor compreensão e interpretação de qual documentação é pertecente a qual versão. Os arquivos extras que são gerados pelo doxygen também foram inseridos em um pasta separada dentro de cada versão, para melhor visualização.
+
+
 c) Todos do grupo participaram no processo de confecção, definção de classes, alteração dos códigos, etc. Devido as diferentes rotinas e escalas de trabalho todos do grupo sempre se ajudaram em caso de dúvidas e dificuldades. Tal fato é relevante para esclarecer que o trabalho foi feito em conjunto e que todos contribuíram para a sua execução. 
 ********************************************************************************************************************************************************************
 
