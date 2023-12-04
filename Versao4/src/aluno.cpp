@@ -17,7 +17,7 @@ void Aluno::mostrar_aluno(void){
             std::cout << ".";
         }
     }
-    std::cout << "-" << this->_cpf.substr(9,10) << std::endl;
+    std::cout << "-" << this->_cpf.substr(9,2) << std::endl;
     std::cout << "IDADE: " << this->_idade << std::endl;
     std::cout << "ENDERECO: " << this->_endereco << std::endl;
     std::cout << "CURSO: " << this->_curso << std::endl;
