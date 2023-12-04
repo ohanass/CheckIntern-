@@ -44,10 +44,11 @@ void Aluno::mostrar_vagasCandidatadas(void){
 	else{
             std::cout << "VAGA INATIVA" << std::endl;
         }
+	else{
+        	std::cout << "VAGA INEXISTENTE" << std::endl;
+	}
     }
-    else{
-        std::cout << "VAGA INEXISTENTE" << std::endl;
-    }
+
 }
 
 void Aluno::mostrar_vagaDetalhada(unsigned long int id){
