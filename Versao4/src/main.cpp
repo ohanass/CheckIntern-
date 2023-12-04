@@ -33,7 +33,7 @@ int main(){
                 do {
                     std::cout << "Pressione Enter para continuar...";
                     std::cin.get();
-                    system("clear");
+                    std::cout << "\033[2J\033[H";
                     std::cout << "Escolha a opção desejada:" << std::endl;
                     std::cout << "e - Alterar e-mail do servidor" << std::endl;
                     std::cout << "l - Alterar login do servidor" << std::endl;
@@ -147,7 +147,7 @@ int main(){
             do {
                 std::cout << "Pressione Enter para continuar...";
                 std::cin.get();
-                system("clear");
+                std::cout << "\033[2J\033[H";
                 std::cout << "Escolha a opção desejada:" << std::endl;
                 std::cout << "e - Alterar e-mail do aluno" << std::endl;
                 std::cout << "l - Alterar login do aluno" << std::endl;
