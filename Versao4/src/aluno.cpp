@@ -41,14 +41,7 @@ void Aluno::mostrar_vagasCandidatadas(void){
             std::cout << i + 1 << "." << std::endl;
             this->_vagasCandidatadas.at(i)->mostrar_vaga_resumido();
         }
-	else{
-            std::cout << "VAGA INATIVA" << std::endl;
-        }
-	else{
-        	std::cout << "VAGA INEXISTENTE" << std::endl;
-	}
     }
-
 }
 
 void Aluno::mostrar_vagaDetalhada(unsigned long int id){
