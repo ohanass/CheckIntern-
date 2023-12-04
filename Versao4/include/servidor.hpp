@@ -27,7 +27,7 @@ class Servidor : public  Usuario{
     Usuario(email, login, senha), _nome(nome), _cpf(cpf), _endereco(endereco), _numeroTelefone(numeroTelefone), 
     _cadastroInstituicao(cadastroInstituicao) {};
     
-
+    // @brief Exibe informações do servidor
     void mostrar_servidor(void);
     
     // @brief Obtém o nome do servidor.
