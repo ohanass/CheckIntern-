@@ -15,8 +15,8 @@ class Servidor : public  Usuario{
     public:
     Servidor(std::string nome, std::string cpf, std::string endereco,std::string numeroTelefone, 
     std::string cadastroInstituicao, std::string email, std::string login, std::string senha) :
-    _nome(nome), _cpf(cpf), _endereco(endereco), _numeroTelefone(numeroTelefone), _cadastroInstituicao(cadastroInstituicao),
-    Usuario(email, login, senha) {};
+    Usuario(email, login, senha), _nome(nome), _cpf(cpf), _endereco(endereco), _numeroTelefone(numeroTelefone), 
+    _cadastroInstituicao(cadastroInstituicao) {};
     void mostrar_servidor(void);
     std::string get_nome(void);
     std::string get_cpf(void);
