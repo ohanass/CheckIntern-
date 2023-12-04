@@ -46,6 +46,10 @@ class Aluno : public  Usuario{
     // @brief Mostra as informações do currículo.
     void mostrar_curriculo();
 
+    /// @brief Envia o currículo do aluno para uma vaga candidatada
+    /// @param vaga Ponteiro que aponta para a vaga que o aluno quer se candidatar
+    void enviar_curriculo(Vaga* vaga);
+
     /// @brief Exibe informações resumidas de todas as vagas candidatadas pelo aluno
     void mostrar_vagasCandidatadas();
 
