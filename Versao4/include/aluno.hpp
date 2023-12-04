@@ -35,8 +35,8 @@ class Aluno : public  Usuario{
     /// @param senha senha da conta do aluno
     Aluno(std::string nome, std::string cpf, unsigned short int idade, std::string endereco, std::string curso, 
     unsigned short int periodo,std::string numeroTelefone, std::string email, std::string login, std::string senha) :
-    _nome(nome), _cpf(cpf), _idade(idade), _endereco(endereco), _curso(curso), _periodo(periodo), _numeroTelefone(numeroTelefone), 
-    Usuario(email, login, senha){};
+    Usuario(email, login, senha), _nome(nome), _cpf(cpf), _idade(idade), _endereco(endereco), _curso(curso), _periodo(periodo), 
+    _numeroTelefone(numeroTelefone) {};
 
     /// @brief Atualiza um currículo com os valores de outro currículo
     /// @param outro Ponteiro que aponta para o currículo que terá seus atributos
