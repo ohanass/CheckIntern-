@@ -1,8 +1,13 @@
 
 **PLATAFORMA GERENCIADORA DE ESTÁGIOS DA UFMG:**
-O projeto trata-se de um gerenciador de estágios voltado para um ambiente acadêmico (inicialmente pensado para os alunos da UFMG). 
-O programa oferece uma interface interativa por meio de um menu, onde os usuários podem realizar diversas operações, incluindo login, cadastro de servidores e alunos, alteração de informações, cadastro de empresas, manipulação de vagas de emprego, envio e visualização de currículos, entre outras funcionalidades associadas ao gerenciamento de estágios.
-Em resumo, o projeto se propõe a oferecer uma plataforma para facilitar a interação e a gestão de estágios, conectando alunos, empresas e servidores em um único ambiente facilitando a troca de informação e o acesso as vagas de estágio. Esse projeto foi inspirado no CEFET Carreiras, programa do CEFET-MG, que permite essa interação simplificada. 
+
+
+ÍNDICE:
+1.
+2.
+3.
+4.
+5. 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 OBSERVAÇÕES E JUSTIFICATIVAS QUE CONSIDERAMOS IMPORTANTES DE SEREM ESCLARECIDAS PARA O PROFESSOR LUIGI SOARES
@@ -21,6 +26,13 @@ a)
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**PLATAFORMA GERENCIADORA DE ESTÁGIOS DA UFMG:**
+O projeto trata-se de um gerenciador de estágios voltado para um ambiente acadêmico (inicialmente pensado para os alunos da UFMG). 
+O programa oferece uma interface interativa por meio de um menu, onde os usuários podem realizar diversas operações, incluindo login, cadastro de servidores e alunos, alteração de informações, cadastro de empresas, manipulação de vagas de emprego, envio e visualização de currículos, entre outras funcionalidades associadas ao gerenciamento de estágios.
+Em resumo, o projeto se propõe a oferecer uma plataforma para facilitar a interação e a gestão de estágios, conectando alunos, empresas e servidores em um único ambiente facilitando a troca de informação e o acesso as vagas de estágio. Esse projeto foi inspirado no CEFET Carreiras, programa do CEFET-MG, que permite essa interação simplificada. 
+
+
 
 **ATENÇÃO!!!!!**
 Leia as informações abaixo antes de tentar compilar o arquivo!
